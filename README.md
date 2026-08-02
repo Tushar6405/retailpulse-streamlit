@@ -2,7 +2,7 @@
 
 A fully interactive, live-hosted version of the [RetailPulse SQL Data Warehouse & Power BI Dashboard](https://github.com/Tushar6405/retail-sales-dashboard) project — same star-schema data, same business questions, rebuilt with Streamlit + Plotly so anyone can explore it live in the browser with zero installs.
 
-**🔗 Live Dashboard:** _add your Streamlit Cloud link here_
+**🔗 Live Dashboard:** [retailpulse-app-mlcx8fcxa7wl9tn39pkepb.streamlit.app](https://retailpulse-app-mlcx8fcxa7wl9tn39pkepb.streamlit.app/)
 **📁 Related project (SQL + Power BI):** [github.com/Tushar6405/retail-sales-dashboard](https://github.com/Tushar6405/retail-sales-dashboard)
 
 ## Why this exists
